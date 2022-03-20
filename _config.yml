@@ -14,7 +14,7 @@ github_repo: "yeo-u"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://CheariLim/yeo-u.github.io/blog/" 
+url: "https://yeo-u.github.io" 
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
