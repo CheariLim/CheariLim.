@@ -14,7 +14,7 @@ github_repo: "CheariLim."
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://CheariLim.github.io" 
+url: "https://CheariLim..github.io" 
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
